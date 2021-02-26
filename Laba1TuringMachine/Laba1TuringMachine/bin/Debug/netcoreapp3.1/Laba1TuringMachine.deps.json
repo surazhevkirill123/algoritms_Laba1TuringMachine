@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Laba1TuringMachine/1.0.0": {
+        "runtime": {
+          "Laba1TuringMachine.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Laba1TuringMachine/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

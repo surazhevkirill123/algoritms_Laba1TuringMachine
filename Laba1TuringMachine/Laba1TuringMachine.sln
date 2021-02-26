@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laba1TuringMachine", "Laba1TuringMachine\Laba1TuringMachine.csproj", "{AC29E730-FCC0-4136-BC3E-77F3350EB171}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC29E730-FCC0-4136-BC3E-77F3350EB171}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC29E730-FCC0-4136-BC3E-77F3350EB171}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC29E730-FCC0-4136-BC3E-77F3350EB171}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC29E730-FCC0-4136-BC3E-77F3350EB171}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B4098B1E-D2E8-40D2-97FF-668C489C0761}
+	EndGlobalSection
+EndGlobal
