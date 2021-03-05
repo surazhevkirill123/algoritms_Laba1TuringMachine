@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\STUDIES\\algoritms\\Laba1TuringMachine\\Laba1TuringMachine\\Laba1TuringMachine.csproj",
+      "projectUniqueName": "E:\\STUDIES\\algoritms_LabsAndLectures\\Laba1TuringMachine\\Laba1TuringMachine\\Laba1TuringMachine.csproj",
       "projectName": "Laba1TuringMachine",
-      "projectPath": "E:\\STUDIES\\algoritms\\Laba1TuringMachine\\Laba1TuringMachine\\Laba1TuringMachine.csproj",
+      "projectPath": "E:\\STUDIES\\algoritms_LabsAndLectures\\Laba1TuringMachine\\Laba1TuringMachine\\Laba1TuringMachine.csproj",
       "packagesPath": "C:\\Users\\Кирилл\\.nuget\\packages\\",
-      "outputPath": "E:\\STUDIES\\algoritms\\Laba1TuringMachine\\Laba1TuringMachine\\obj\\",
+      "outputPath": "E:\\STUDIES\\algoritms_LabsAndLectures\\Laba1TuringMachine\\Laba1TuringMachine\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

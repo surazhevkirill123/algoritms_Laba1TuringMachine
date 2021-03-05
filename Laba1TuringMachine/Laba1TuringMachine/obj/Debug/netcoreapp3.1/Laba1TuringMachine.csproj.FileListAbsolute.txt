@@ -11,3 +11,16 @@ E:\STUDIES\algoritms\Laba1TuringMachine\Laba1TuringMachine\bin\Debug\netcoreapp3
 E:\STUDIES\algoritms\Laba1TuringMachine\Laba1TuringMachine\obj\Debug\netcoreapp3.1\Laba1TuringMachine.dll
 E:\STUDIES\algoritms\Laba1TuringMachine\Laba1TuringMachine\obj\Debug\netcoreapp3.1\Laba1TuringMachine.pdb
 E:\STUDIES\algoritms\Laba1TuringMachine\Laba1TuringMachine\obj\Debug\netcoreapp3.1\Laba1TuringMachine.genruntimeconfig.cache
+E:\STUDIES\algoritms_LabsAndLectures\Laba1TuringMachine\Laba1TuringMachine\bin\Debug\netcoreapp3.1\Laba1TuringMachine.exe
+E:\STUDIES\algoritms_LabsAndLectures\Laba1TuringMachine\Laba1TuringMachine\bin\Debug\netcoreapp3.1\Laba1TuringMachine.deps.json
+E:\STUDIES\algoritms_LabsAndLectures\Laba1TuringMachine\Laba1TuringMachine\bin\Debug\netcoreapp3.1\Laba1TuringMachine.runtimeconfig.json
+E:\STUDIES\algoritms_LabsAndLectures\Laba1TuringMachine\Laba1TuringMachine\bin\Debug\netcoreapp3.1\Laba1TuringMachine.runtimeconfig.dev.json
+E:\STUDIES\algoritms_LabsAndLectures\Laba1TuringMachine\Laba1TuringMachine\bin\Debug\netcoreapp3.1\Laba1TuringMachine.dll
+E:\STUDIES\algoritms_LabsAndLectures\Laba1TuringMachine\Laba1TuringMachine\bin\Debug\netcoreapp3.1\Laba1TuringMachine.pdb
+E:\STUDIES\algoritms_LabsAndLectures\Laba1TuringMachine\Laba1TuringMachine\obj\Debug\netcoreapp3.1\Laba1TuringMachine.csprojAssemblyReference.cache
+E:\STUDIES\algoritms_LabsAndLectures\Laba1TuringMachine\Laba1TuringMachine\obj\Debug\netcoreapp3.1\Laba1TuringMachine.AssemblyInfoInputs.cache
+E:\STUDIES\algoritms_LabsAndLectures\Laba1TuringMachine\Laba1TuringMachine\obj\Debug\netcoreapp3.1\Laba1TuringMachine.AssemblyInfo.cs
+E:\STUDIES\algoritms_LabsAndLectures\Laba1TuringMachine\Laba1TuringMachine\obj\Debug\netcoreapp3.1\Laba1TuringMachine.csproj.CoreCompileInputs.cache
+E:\STUDIES\algoritms_LabsAndLectures\Laba1TuringMachine\Laba1TuringMachine\obj\Debug\netcoreapp3.1\Laba1TuringMachine.dll
+E:\STUDIES\algoritms_LabsAndLectures\Laba1TuringMachine\Laba1TuringMachine\obj\Debug\netcoreapp3.1\Laba1TuringMachine.pdb
+E:\STUDIES\algoritms_LabsAndLectures\Laba1TuringMachine\Laba1TuringMachine\obj\Debug\netcoreapp3.1\Laba1TuringMachine.genruntimeconfig.cache
